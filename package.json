@@ -1,0 +1,22 @@
+{
+  "name": "motivational-quotes-api",
+  "version": "1.0.0",
+  "description": "An MERN stack practice project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reza-martin-api-project/motivational-quotes-api.git"
+  },
+  "author": "Reza S. and Martin N.",
+  "license": "ISC",
+  "homepage": "https://github.com/reza-martin-api-project/motivational-quotes-api/blob/main/README.md",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.13"
+  }
+}
